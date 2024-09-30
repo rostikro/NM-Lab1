@@ -44,8 +44,8 @@ fn main() {
         const B1: f64 = -1.8;
 
         // Second root
-        const A2: f64 = 1.8;
-        const B2: f64 = 2.5;
+        const A2: f64 = 1.5;
+        const B2: f64 = 2.3;
 
         // Third root
         const A3: f64 = 4.7;
